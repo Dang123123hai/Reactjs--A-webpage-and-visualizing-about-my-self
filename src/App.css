@@ -1,0 +1,204 @@
+
+.nav{
+  list-style-type: none;
+  display: flex;
+  justify-content:space-evenly;
+  background-color:#ffffff;
+  font-size: 100%;
+  font-family: sans-serif;
+  border-bottom: solid 2px;
+  border-color: #ffffff;
+  
+  
+}
+.header{
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+  font-size: 350%;
+  font-family: sans-serif;
+  font-weight: bold;
+
+  
+}
+.body{
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+  font-family: sans-serif;
+
+
+}
+.contactMail{
+  color: black;
+  font-size: 100%;
+  font-family: sans-serif;
+}
+
+.body1 {
+  
+  padding: 20px;
+  margin:  0px;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #f3f2ef;
+  padding: 20px;
+  margin:  0;
+  font-family: sans-serif;
+ 
+  
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#f3f2ef;
+  color:black;
+  text-align: center; 
+  font-size: 70%;
+}
+body.home{
+  
+  font-size: 105%;
+  background-color:white
+ 
+}
+
+.container {
+  width: 53%;
+  background: white;
+  aspect-ratio: 100 / 29;
+  margin: 0 auto;
+  
+  
+}
+ul{
+  font-family: sans-serif;
+  
+}
+ul li{
+  color: black;
+  margin:0;
+  font-size: 110%;
+  font-family: sans-serif;
+  
+}
+ul.ulsize{
+  font-size: 80%;
+}
+button{
+  font-size: 110%;
+  
+}
+.button{
+  font-size: 100%;
+  position: relative;
+  appearance: none;
+  background: black;
+  padding: 1em 2em;
+  border: none;
+  color: white;
+  cursor: pointer;
+  outline: none;
+  overflow: hidden;
+  border-radius: 100px;
+}
+
+h3.link{
+  color: black;
+}
+
+
+.input{
+  
+  font-size: 100%;
+}
+.logo{
+  
+  width: 9%;
+  position: absolute;
+  padding-top: 0px;
+  padding-left: 60px;
+
+  
+}
+.logoSN{
+  width:2.5%
+}
+.AboutPI{
+  font-size: 102%;
+}
+p{
+  font-size: 110%;
+}
+textarea {
+  width: 300px;
+  height:100px;
+ 
+}
+
+
+.link:hover{
+  
+  box-shadow: inset 0 -1px #111;
+  
+  
+}
+
+
+.music{
+  padding-left:0px;
+  padding-top: 70px;
+  position: absolute
+}
+.travel{
+  width: 60%;
+ 
+}
+
+#slideshow {
+  overflow: hidden;
+  height: 626.5px;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.slide-wrapper {
+  width: 5000px;
+  animation: slide 16s ease infinite;
+}
+
+
+.slide {
+  float: left;
+  height: 626.5px;
+  width: 940px;
+}
+
+
+@keyframes slide {
+  17.5% {margin-left: -0px;}  
+  25% {margin-left: -940px;}
+  42.5% {margin-left: -940px;}
+  50% {margin-left: -1880px;}
+  67.5% {margin-left: -1880px;}
+  75% {margin-left: -2820px;}
+  92.5% {margin-left: -2820px;}
+  100% {margin-left:-3760px;}
+}
+
+.slidePics{
+  height: 626.5px;
+  width: 940px;
+}
+.headerColor{
+  background-color: white;
+}
+
+.cat{
+  height: 720px;
+  
+}

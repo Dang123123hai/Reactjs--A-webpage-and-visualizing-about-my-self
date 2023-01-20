@@ -1,0 +1,6 @@
+DANG LUONG-BS20DSY034
+
+
+FOR THIS PROJECT, I HAVE USED:
+-React-router-dom
+-React-chartjs-2
